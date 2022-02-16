@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c90d2fc3-88db-4c4f-9d6c-4f415524b938" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24XjoX8Gk5JOW88s0kC4kNgn7HL" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\project\mini-jvm\src\test" />
+      <recent name="D:\Desktop\project\mini-jvm\src" />
+      <recent name="D:\Desktop\project\mini-jvm\src\rtda" />
+      <recent name="D:\Desktop\project\mini-jvm\src\rtda\shared\sym_ref" />
+      <recent name="D:\Desktop\project\mini-jvm\src\rtda\shared\runtime_pool" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test" />
+      <recent name="instructions.base" />
+      <recent name="rtda.shared.method_area" />
+      <recent name="rtda" />
+      <recent name="rtda.unshared" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test08InvokeMethod">
+    <configuration name="Test03ClassFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test03ClassFile" />
+      <module name="mini-jvm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test07ClassLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test07ClassLoader" />
+      <module name="mini-jvm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test08InvokeMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test08InvokeMethod" />
+      <module name="mini-jvm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ter" />
+      <module name="mini-jvm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test08InvokeMethod" />
+        <item itemvalue="Application.Test03ClassFile" />
+        <item itemvalue="Application.Test07ClassLoader" />
+        <item itemvalue="Application.ter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c90d2fc3-88db-4c4f-9d6c-4f415524b938" name="Changes" comment="" />
+      <created>1643784000578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643784000578</updated>
+      <workItem from="1643784001831" duration="38000" />
+      <workItem from="1643784044037" duration="1000" />
+      <workItem from="1643784049529" duration="20071000" />
+      <workItem from="1643874781910" duration="21000" />
+      <workItem from="1643881667717" duration="4026000" />
+      <workItem from="1644290401658" duration="2184000" />
+      <workItem from="1644405357728" duration="1248000" />
+      <workItem from="1644502858103" duration="541000" />
+      <workItem from="1644567283149" duration="9000" />
+      <workItem from="1644666189711" duration="1371000" />
+      <workItem from="1644733412066" duration="264000" />
+      <workItem from="1644762173942" duration="836000" />
+      <workItem from="1644796823336" duration="112000" />
+      <workItem from="1644807559553" duration="3044000" />
+      <workItem from="1644898792868" duration="99000" />
+      <workItem from="1644974760703" duration="677000" />
+      <workItem from="1644981078101" duration="588000" />
+      <workItem from="1645002005258" duration="58000" />
+      <workItem from="1645002079557" duration="605000" />
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Test07ClassLoader.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Test03ClassFile.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Test08InvokeMethod.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
