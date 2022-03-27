@@ -1,6 +1,8 @@
 package test;
 
 import java.io.ObjectInput;
+import java.util.Arrays;
+import java.util.Comparator;
 
 /**
  * @Author: Alk-aid
@@ -10,14 +12,8 @@ import java.io.ObjectInput;
 public class HelloWorld {
 
     public static void main(String[] args) {
-        String sre = new String();
+        System.out.println("1".compareTo("10"));
     }
 
-    public static int test() {
-        int sum = 0;
-        for (int i = 1; i <= 2; i++) {
-            sum += i;
-        }
-        return sum;
-    }
+
 }
